@@ -1,5 +1,5 @@
 # PHP_MVC_1
-This code is written as a demo project for a technical round of job interview.
+This code is written as a demo project for a PHP based MV architecture project.
 
 
 
